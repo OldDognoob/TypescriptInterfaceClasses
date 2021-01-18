@@ -1,0 +1,2 @@
+A small section of Classes and Interfaces with the use of Typescript.
+We will try to understand how typescript works with examples.
